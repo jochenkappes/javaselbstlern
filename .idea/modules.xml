@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist-leer/arraylist-leer.iml" filepath="$PROJECT_DIR$/arraylist-leer/arraylist-leer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaselbstlern.iml" filepath="$PROJECT_DIR$/.idea/javaselbstlern.iml" />
+    </modules>
+  </component>
+</project>
