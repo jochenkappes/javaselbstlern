@@ -15,9 +15,11 @@ class Werte {
             this.i = 5;
             this.j = Integer.parseInt("");
             this.k = 8;
+            //Compilerfehler - lässt sich nicht kompilieren
+            //this.k = null;
         } catch(Exception ex){
             System.out.println("Fehler bei der Wertezuweisung");
-            System.out.println("Name der Fehlerklasse:  "+ex.getClass().getName());
+            System.out.println("Name der Fehlerklasse:  "+ ex.getClass().getName());
             System.out.println("Message:                "+ ex.getMessage());
         }
 
