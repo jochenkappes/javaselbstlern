@@ -1,9 +1,14 @@
 package de.jochenkappes.uebung3;
 
 class Werte {
-    int i;
-    int j;
-    int k;
+//    try    {
+        int i;
+        int j;
+        int k;
+//    } catch(Exception ex){
+//        System.out.println("So'n Schei...");
+//    }
+
 
     public void wertezuweisen() {
         try {
